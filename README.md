@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/ruanmoa"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </p>
 
-</p>
-  <h3> 🧰 Languages and Tools </h3>
+<details open> 
+  <summary><h3> 🧰 Languages and Tools </h3></summary>
   <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="Qt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
@@ -33,14 +33,14 @@
   <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</p>
+</details>
+
 <br />
-<br />
-<p>
-  <h3>🔥 Streak Stats</h3>
+
+<details open> 
+  <summary><h3>🔥 Streak Stats</h3></summary>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ruanmoa&theme=tokyonight" alt="ruanmoa's streak" /></a>
   </p>
-</p>
-  
+</details>
