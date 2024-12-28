@@ -33,10 +33,10 @@
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />          
 <br />
-
+<br />
 <h3>🔥 Streak Stats</h3>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p>
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ruanmoa's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ruanmoa&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
